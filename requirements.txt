@@ -2,3 +2,5 @@ requests
 openai
 dotenv
 csv
+snowflake-connector-python
+time
